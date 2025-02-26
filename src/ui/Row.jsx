@@ -17,7 +17,7 @@ display: flex;
 }   
 `
 Row.defaultProps = {
-    type: "vertical",
+    type: "horizontal",
   };
   
 
